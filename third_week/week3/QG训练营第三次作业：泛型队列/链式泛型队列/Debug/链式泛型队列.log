@@ -1,0 +1,29 @@
+﻿  LQueue.c
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(18): warning C4013: “InputType”未定义；假设外部返回 int
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(21): warning C4047: “=”:“void *”与“int”的间接级别不同
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(66): warning C4013: “memcpy”未定义；假设外部返回 int
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(314): warning C4013: “getch”未定义；假设外部返回 int
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(351): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“void *”
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(351): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(351): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(355): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“void *”
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(355): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(355): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(360): warning C4477: “scanf_s”: 格式字符串“%ld”需要类型“long *”的参数，但可变参数 1 拥有了类型“void *”
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(360): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(360): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(365): warning C4477: “scanf_s”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 1 拥有了类型“void *”
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(365): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(365): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(370): warning C4477: “scanf_s”: 格式字符串“%lf”需要类型“double *”的参数，但可变参数 1 拥有了类型“void *”
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(370): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(370): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(375): warning C4477: “scanf_s”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 1 拥有了类型“void *”
+  c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(375): note: 此参数由转换说明符使用
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(380): warning C4474: printf: 格式字符串中传递的参数太多
+  c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(380): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(113): warning C4715: “EnLQueue”: 不是所有的控件路径都返回值
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(138): warning C4716: “DeLQueue”: 必须返回一个值
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\qg训练营第三次作业：泛型队列\链式泛型队列\lqueue.c(182): warning C4715: “TraverseLQueue”: 不是所有的控件路径都返回值
+  链式泛型队列.vcxproj -> C:\Users\Misterchaos\Documents\C语言开发环境\Visual Studio Workspace\QG训练营第三次作业：泛型队列\Debug\链式泛型队列.exe
