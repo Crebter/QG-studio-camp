@@ -1,0 +1,21 @@
+﻿  main.c
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\排序算法\qgsort\main.c(35): warning C4013: “Print”未定义；假设外部返回 int
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\排序算法\qgsort\main.c(44): warning C4013: “InputData”未定义；假设外部返回 int
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\排序算法\qgsort\main.c(67): warning C4013: “test”未定义；假设外部返回 int
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\排序算法\qgsort\main.c(94): warning C4047: “函数”:“int *”与“int (*)[100000]”的间接级别不同
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\排序算法\qgsort\main.c(94): warning C4024: “insertSort”: 形参和实参 1 的类型不同
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\排序算法\qgsort\main.c(97): warning C4047: “函数”:“int *”与“int (*)[100000]”的间接级别不同
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\排序算法\qgsort\main.c(97): warning C4024: “MergeSort”: 形参和实参 1 的类型不同
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\排序算法\qgsort\main.c(101): warning C4047: “函数”:“int *”与“int (*)[100000]”的间接级别不同
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\排序算法\qgsort\main.c(101): warning C4024: “QuickSort_Recursion”: 形参和实参 1 的类型不同
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\排序算法\qgsort\main.c(104): warning C4047: “函数”:“int *”与“int (*)[100000]”的间接级别不同
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\排序算法\qgsort\main.c(104): warning C4024: “QuickSort”: 形参和实参 1 的类型不同
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\排序算法\qgsort\main.c(107): warning C4047: “函数”:“int *”与“int (*)[100000]”的间接级别不同
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\排序算法\qgsort\main.c(107): warning C4024: “CountSort”: 形参和实参 1 的类型不同
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\排序算法\qgsort\main.c(110): warning C4047: “函数”:“int *”与“int (*)[100000]”的间接级别不同
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\排序算法\qgsort\main.c(110): warning C4024: “RadixCountSort”: 形参和实参 1 的类型不同
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\排序算法\qgsort\main.c(113): warning C4013: “ChecColorData”未定义；假设外部返回 int
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\排序算法\qgsort\main.c(114): warning C4047: “函数”:“int *”与“int (*)[100000]”的间接级别不同
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\排序算法\qgsort\main.c(114): warning C4024: “ColorSort”: 形参和实参 1 的类型不同
+c:\users\misterchaos\documents\c语言开发环境\visual studio workspace\排序算法\qgsort\main.c(126): warning C4013: “NumberKBig”未定义；假设外部返回 int
+  QGSort.vcxproj -> C:\Users\Misterchaos\Documents\C语言开发环境\Visual Studio Workspace\排序算法\Debug\QGSort.exe
